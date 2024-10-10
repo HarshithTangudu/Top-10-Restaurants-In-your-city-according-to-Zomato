@@ -68,9 +68,7 @@ After executing the above command, you will find an Excel file named *"Top 10 Re
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
